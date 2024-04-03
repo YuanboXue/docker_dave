@@ -1,8 +1,0 @@
-prefix=/root/uuv_ws/devel
-
-Name: ds_acomms_msgs
-Description: Description of ds_acomms_msgs
-Version: 0.1.0
-Cflags: -I/root/uuv_ws/devel/include
-Libs: -L${prefix}/lib 
-Requires: 
