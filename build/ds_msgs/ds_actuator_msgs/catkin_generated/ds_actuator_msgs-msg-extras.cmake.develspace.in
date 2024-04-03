@@ -1,2 +1,0 @@
-set(ds_actuator_msgs_MESSAGE_FILES "/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ServoCmd.msg;/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ServoState.msg;/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/Tecnadyne561.msg;/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ThrusterCmd.msg;/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/ThrusterState.msg;/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/msg/DropweightCmd.msg")
-set(ds_actuator_msgs_SERVICE_FILES "/root/uuv_ws/src/ds_msgs/ds_actuator_msgs/srv/XrCmd.srv")
